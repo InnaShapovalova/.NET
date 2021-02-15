@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Frequency_Var_2/1.0.0": {
+        "runtime": {
+          "Frequency_Var_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Frequency_Var_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
